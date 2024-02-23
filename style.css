@@ -1,0 +1,21 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: black ;
+}
+
+body {
+    background-color: cornsilk;
+}
+
+ul {
+    color: orange;
+}
+
+ul li {
+    background-color: azure;
+    font-weight: 100;
+    
+}
